@@ -1,8 +1,10 @@
 # Light meter based on ESP32-C3 with 0.42 inch Oled screen
+![ESP32-C3 light meter](https://github.com/NikitaYaskin/Light-meter-based-on-ESP32C3/blob/main/imgs/ESP32_c3_oled.jpg)
 An affordable and customizable alternative to expensive modern light meters, allowing you to modify and adapt it to your needs.
 
 ## What we neet for this project:
 - **ESP32-C3** with 0.42 Oled screen
+  ![ESP32-C3 with oled](https://github.com/NikitaYaskin/Light-meter-based-on-ESP32C3/blob/main/imgs/esp32_c3_light_meter.jpg)
 - **TEMT6000** light sensor
 - 3 regular buttons
 
