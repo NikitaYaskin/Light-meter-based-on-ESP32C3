@@ -3,10 +3,10 @@
 An affordable and customizable alternative to expensive modern light meters, allowing you to modify and adapt it to your needs.
 
 ## What we neet for this project:
-- **ESP32-C3** with 0.42 Oled screen
+- **ESP32-C3** with 0.42 Oled screen $ 3.93
   ![ESP32-C3 with oled](https://github.com/NikitaYaskin/Light-meter-based-on-ESP32C3/blob/main/imgs/esp32_c3_light_meter.jpg)
-- **TEMT6000** light sensor
-- 3 regular buttons
+- **TEMT6000** light sensor $1.17
+- 2 regular buttons $1.40/1 button
 
 ## Libs
  - [**SH1106**](https://github.com/robert-hh/SH1106) library for working with an OLED screen 
